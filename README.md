@@ -6,3 +6,5 @@ Para roda na sua máquina, por favor digite:
 ```
 node app.js
 ```
+
+:)
